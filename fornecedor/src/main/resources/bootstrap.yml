@@ -5,5 +5,4 @@ spring:
     active: default
   cloud:
     config:
-      uri: http://localhost:8888  
-      name: fornecedor
+      uri: http://localhost:8888
